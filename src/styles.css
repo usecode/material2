@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.app-sidenav {
+  padding: 10px;
+  min-width: 200px;
+}
+
+.app-content md-card {
+  margin: 20px;
+}
+
+.app-action {
+  display: inline-block;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.app-toolbar-filler {
+  flex: 1 1 auto;
+}
